@@ -1,0 +1,96 @@
+/* ===============Navber================= */
+.menu_logo{
+    width: 150px;
+}
+.menu_item ul li{
+    list-style-type: none;
+    padding: 5px 10px;
+    font-weight: 500;
+    color: rgb(138, 136, 136);
+    cursor: pointer;
+}
+header{
+    padding: 20px 0;
+}
+.carousel-indicators .arrow1{
+    background-color: orange;
+    height: 8px;
+    width: 30px;
+}
+.carousel-indicators .arrow2{
+    background-color: gray;
+    height: 8px;
+    width: 15px;
+}
+.banner_bg{
+    position: absolute;
+    left: 0;
+    top: 550px;
+    z-index: -1;
+}
+.main_banner_bg{
+    z-index: 999;
+}
+.main_banner_bg h3{
+    font-size: 40px;
+}
+.main_banner_bg p{
+    padding: 20px 0;
+    font-size: 20px;
+}
+.product_heading{
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.product{
+    margin-top: 100px;
+}
+.product .card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 10px 10px 40px lightgray;
+    padding: 50px;
+}
+.product .card-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+.product .card-text{
+    margin-bottom: 20px;
+}
+
+/* =====================Last Section============================= */
+.last_img{
+    max-width: 100%;
+}
+.last_section{
+    padding: 150px 0;
+}
+.lasth1{
+    margin-bottom: 100px;
+}
+.last_section .forSep{
+    width: 130px;
+    height: 8px;
+    background-color: orange;
+    position: relative;
+    left: 611px;
+    top: -80px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+.item1{
+    text-align: center;
+    padding: 20px;
+    height: 300px;
+    border-radius: 0 35px 0 35px;
+    box-shadow: 5px 5px 40px rgb(241, 239, 239);
+    cursor: pointer;
+}
+.item2{
+    margin-bottom: 12px;
+}
+.item1 img{
+    margin-bottom: 15px;
+}
